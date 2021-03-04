@@ -1,0 +1,5 @@
+- HUGO (https://gohugo.io/)
+- Raditian Free Hugo Theme (https://themes.gohugo.io/raditian-free-hugo-theme/)
+- Cloud Vectors by Vecteezy (https://www.vecteezy.com/free-vector/cloud)
+- Unsplash (https://unsplash.com/)
+- Cookie Consent (https://github.com/adriandmitroca/cookie-consent-box)
